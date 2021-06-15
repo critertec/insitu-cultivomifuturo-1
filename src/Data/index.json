@@ -2,47 +2,47 @@
     "info": {
         "title": "Sentimientos encontrados",
         "sub-title": "Instrucciones",
-        "body-1": "Yeiner y Luisa necesitan mínimo 1.000 seguidores para pasar a la final de un concurso que apoya proyectos hechos por jóvenes. Si lo logran, podrán seguir impulsando su proyecto “Cultivo mi futuro”.",
+        "body-1": "Andrés y Luisa quieren inspirar y motivar a más personas para que cultiven su futuro, por eso se propusieron conseguir mínimo 100 amigos, su objetivo es que al interactuar con ellos conversen de cómo identifican, expresan, regulan y reconocen sus emociones.",
         "placeholder": "PLACEHOLDER IMG EXPLICATIVA",
-        "body-2": "Por eso han decidido crear el hashtag #SentimientosEncontrados. Una iniciativa que busca preguntarles a sus seguidores cómo se han sentido últimamente, y así volverlo tendencia para ganar más seguidores y pasar a la siguiente fase del concurso. Sin embargo, se han dado cuenta que a muchos de sus seguidores se les dificulta reconocer y expresar sus sentimientos, por eso no comparten la iniciativa.",
-        "body-3": "Ayuda a Luisa y Yeiner a analizar las publicaciones que han recibido e identificar en ellas las emociones ocultas de sus amigos, para que ellos se sientan comprendidos, compartan la iniciativa y así puedan ganar los seguidores necesarios para pasar a la fase final del concurso."
+        "body-2": "Por lo anterior han decidido crear la iniciativa “Sentimientos Encontrados”, esta estrategia busca identificar cómo se sienten las personas en su diario vivir, cómo expresan sus emociones, sus inconformidades, qué alternativas toman ante una mala situación, y como reconocen en el otro sus emociones. El objetivo de esta estrategia es mejorar la comunicación, la cooperación, y de esta manera prevenir cualquier tipo de agresión y violencia, ante situaciones que generen incomodidad o inconformidad.",
+        "body-3": "Su misión es ayudar a Luisa y Andrés a analizar los mensajes que han recibido de sus amigos, para mejorar y ayudarlos en el manejo de las emociones, de esta manera ellos sentirán que ustedes los comprenden, los entienden y como consecuencia positiva, ellos se motivarán a conversar con más personas, sin barreras o prejuicios. ¡Anímense! Vamos a crear una comunidad increíble dispuesta a CULTIVAR UN MEJOR FUTURO."
     },
     "question": {
         "1": {
             "person": "Paola Tapia",
             "a": {
                 "header": "Hola Luisa y Andrés,",
-                "body": "Vivo con mis abuelos en la finca y desde que empezó todo esto de la COVID-19, ellos no me dejan salir muy seguido. Siento que no quieren que me vea con mis amigos.",
+                "body": "Vivo con mis abuelos en la finca y desde que empezó todo esto del COVID-19, ellos no me dejan salir muy seguido. Siento que no quieren que me vea con mis amigos.",
                 "intro": "Miren lo que nos escribe Paola. ¿Qué creen que está expresando?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",  
-                            "body": "Por más que haya dicho 'sentir', parece que no muestra ninguna emoción. Es más como una opinión sobre lo que cree que sienten otras personas. ¿No?"
+                            "body": "Su frase está más relacionada con una interpretación personal, con relación a lo que dicen sus abuelos, no dice si siente una emoción especifica como “Yo siento rabia o tristeza”.  Sin embargo, sí se evidencia un malestar o inconformidad, porque esperaba poder salir con sus amigos."
                         }
                     },
                     "second": {
-                        "title": "¡Yo pienso lo mismo!",
+                        "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Yo pienso lo mismo!",
-                            "body": "Así haya dicho 'sentir', veo que está opinando sobre lo que cree que sienten otras personas. Es más un pensamiento."
+                            "body": "Está sintiendo algo con base en su interpretación particular de lo que le dicen sus abuelos, por tal razón es un pensamiento que expresa una opinión personal."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Por más que haya dicho 'sentir', parece que no muestra ninguna emoción. Es más como una opinión sobre lo que cree que sienten otras personas. "
+                            "body": "Está sintiendo algo con base en su interpretación particular de lo que le dicen sus abuelos, por tal razón es un pensamiento que expresa una opinión personal."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
                 "header": "Hola Luisa y Andrés,",
-                "body": "Vivo con mis abuelos en la finca y desde que empezó todo esto de la COVID-19, ellos no me dejan salir muy seguido. Siento que no quieren que me vea con mis amigos.",
+                "body": "Vivo con mis abuelos en la finca y desde que empezó todo esto del COVID-19, ellos no me dejan salir muy seguido. Siento que no quieren que me vea con mis amigos.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
@@ -50,52 +50,52 @@
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
                             "title": "¡Esta vez no me siento así!",
-                            "body": "Sentí enojo y frustración por no poder salir, sin embargo a mi hermano le causa alegría y alivio porque así se siente seguro."
+                            "body": "Sentí enojo y frustración por no poder salir. Es difícil entender o comprender lo que los demás me quieren decir."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Frustración, inconformismo.",
                         "retroalimentacion": {
                             "title": "¡Ustedes si me entienden!",
-                            "body": "En esta ocasión sentí enojo y frustración por no poder salir, sin embargo a mi hermano le causa alegría y alivio porque así se siente seguro."
+                            "body": "En esta ocasión sentí inconformidad, enojo y frustración por no poder salir. Pero tengo mi justificación. En realidad, disfruto estar con mis amigos y no me gusta que no me dejen salir."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Alegría:",
                         "body": "Optimismo, asombro.",
                         "retroalimentacion": {
                             "title": "¡Esta vez no me siento así!",
-                            "body": "Sentí enojo y frustración por no poder salir, sin embargo a mi hermano le causa alegría y alivio porque así se siente seguro."
+                            "body": "No me agrada que no me dejen salir, por eso no podría sentir alegría ni agrado. Me molesta no poder salir."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro procesos de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "2": {
             "person": "Juan Esteban Piraquive",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Estoy aprendiendo a tocar guitarra pero luego de varias semanas de esfuerzo me siento incapaz como guitarrista.",
-                "intro": "Juan nos escribe. ¿Qué opinan?",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Estoy aprendiendo a tocar guitarra, pero luego de varias semanas de esfuerzo me siento incapaz de ser un buen guitarrista.",
+                "intro": "Miren lo que Juan nos escribe. ¿Qué opinan?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Para mi, está describiendo su realidad, como cree que es."
+                            "body": "Está describiendo su situación, la cual desencadena una sensación de frustración."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "Humm.... Diría que no.",
-                            "body": "No está tratando de decir como otros se sienten o piensan. Es más una descripción de lo que cree que es su situación. "
+                            "body": "No está opinando frente a lo que sienten o piensan los otros. Sino en una descripción e interpretación de su situación personal."
                         }
                     },
                     "three": {
@@ -106,43 +106,43 @@
                         }
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Estoy aprendiendo a tocar guitarra pero luego de varias semanas de esfuerzo me siento incapaz como guitarrista.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Estoy aprendiendo a tocar guitarra, pero luego de varias semanas de esfuerzo me siento incapaz de ser un buen guitarrista.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación.",
                         "retroalimentacion": {
-                            "title": "No tanto :( ",
-                            "body": "En esta ocasión sentí enojo y frustración por no poder tocar bien la guitarra, sin embargo a veces siento tristeza cuando recuerdo a mi abuelo tocando guitarra en mis cumpleaños."
+                            "title": "No tanto",
+                            "body": "A veces me esfuerzo mucho para aprender a tocar guitarra y cuando no puedo hacerlo como yo quisiera, me enojo y me frustro."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro procesos de entender las emociones y sentimientos ante determinadas situaciones. "
                     },
                     "second": {
                         "title": "Alegría:",
                         "body": "Optimismo, asombro.",
                         "retroalimentacion": {
                             "title": "¡Esta vez no me siento así!",
-                            "body": "En esta ocasión sentí enojo y frustración por no poder tocar bien la guitarra, sin embargo a veces siento tristeza cuando recuerdo a mi abuelo tocando guitarra en mis cumpleaños."
+                            "body": "No me gusta cuando no logro hacer algo por más que me esfuerce,  por eso me enojo o frustro."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Frustración, inconformismo.",
                         "retroalimentacion": {
                             "title": "¡Ustedes si me entienden!",
-                            "body": "En esta ocasión sentí enojo y frustración por no poder tocar bien la guitarra, sin embargo a veces siento tristeza cuando recuerdo a mi abuelo tocando guitarra y cantando con mis tíos."
+                            "body": "En esta ocasión sentí enojo y frustración por no poder tocar bien la guitarra, porque me esforcé y no lo logré."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
@@ -150,32 +150,32 @@
             "person": "Laura López",
             "a": {
                 "header": "¡Hola!",
-                "body": "Empecé mis clases virtuales con un nuevo grupo, pero luego de varias sesiones siento que soy insignificante para mis compañeros.",
+                "body": "empecé mis clases virtuales con un nuevo grupo, pero luego de varias sesiones siento que soy insignificante para mis compañeros.",
                 "intro": "Miren. Laura nos cuenta su historia. ¿Cómo lo ven?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "Diría que no.",
-                            "body": "Laura no nos está hablando desde la emoción, sino como se ve a sí misma. Es más una descripción de quien cree que es. ¿no?"
+                            "body": "Laura no señala una emoción específica, sino una descripción de sí misma, creyendo que sus compañeros también la comparten. "
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
-                            "title": "Uff, creo que no.",
-                            "body": "Laura no está diciéndonos como otros se sienten, sino como se percibe a sí misma. Es más una descripción. "
+                            "title": "Creo que no.",
+                            "body": "Laura, no nos esta mencionando su pensamiento u opinión hacia otros, sino una percepción de sí misma, involucrando a sus compañeros al creer que piensan lo mismo de ella."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
-                            "title": "¡Sí! Tal cual.",
-                            "body": "Laura está describiendo como cree que es su vida."
+                            "title": "Sí, están en lo correcto.",
+                            "body": "Laura realiza una descripción de si misma, de lo que cree que piensan sus compañeros de ella."
                         }
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
@@ -185,40 +185,40 @@
                 "options": {
                     "first": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, Sorpresa.",
                         "retroalimentacion": {
                             "title": "Miren que no me siento tan así.",
-                            "body": "Justo ahora estoy sintiendo tristeza y desánimo, pero hace un rato sentí miedo de que se burlaran de mi y luego rabia por tenerme en cuenta."
+                            "body": "De hecho, soy poco optimista.  Por eso me desanimo y me da como tristeza cuando siento que no me prestan atención en la clase. Aunque a veces me da rabia, porque no me gusta sentirme así."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones. "
                     },
                     "second": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación.",
                         "retroalimentacion": {
                             "title": "¡No tanto!",
-                            "body": "Justo ahora estoy sintiendo tristeza y desánimo, pero hace un rato sentí miedo de que se burlaran de mi y luego rabia por tenerme en cuenta."
+                            "body": "Justo ahora estoy sintiendo tristeza y desánimo, pero en ocasiones me da como ansiedad cuando se burlan de mí, y rabia porque no sé qué decir."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no pudimos ayudar a ningún amigo nuevo, pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
                     },
                     "three": {
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación.",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados!",
-                            "body": "Justo ahora estoy sintiendo tristeza y desánimo, pero hace un rato sentí miedo de que se burlaran de mi y luego rabia por tenerme en cuenta."
+                            "body": "Justo ahora estoy sintiendo tristeza y desánimo, pero hace un rato sentí miedo que se burlaran de mí y luego rabia por tenerme en cuenta."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "4": {
             "person": "Carol Casas",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de llegar del centro de salud luego de una fuerte dolor de cabeza. Al parecer no es nada grave. Ahora me siento aliviada.",
                 "intro": "¡Carol nos ha escrito! Miremos. ¿Qué creen que está expresando?",
                 "options": {
@@ -226,68 +226,68 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Nada mal!",
-                            "body": "Carol se siente aliviada. Nos está hablando de una emoción."
+                            "body": "Carol se siente aliviada. El alivio es un sentimiento generado a partir de la emoción de tranquilidad."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Está expresando un sentimiento relacionado con la situación."
+                            "body": "No, está generando una opinión o pensamiento de otros, sino expresando un sentir a partir de una situación."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Está expresando un sentimiento relacionado con la situación."
+                            "body": "No realiza una descripción de ella misma, solo esa expresando un sentimiento a partir de una emoción."
                         }
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de llegar del centro de salud luego de una fuerte dolor de cabeza. Al parecer no es nada grave. Ahora me siento aliviada.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación.",
                         "retroalimentacion": {
                             "title": "¡Por ahora no me siento así!",
-                            "body": "Al sentirme aliviada, me siento alegre porque ya sé que no tengo nada grave."
+                            "body": "Al sentirme aliviada, me siento tranquila y feli, porque no tengo nada grave."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
                             "title": "¡Así es!",
-                            "body": "Me siento aliviado y feliz desde el momento en el que supe que todo iba a estar bien."
+                            "body": "Me siento tranquila y feliz porque estoy aliviada desde el momento en que me dijeron que no era nada grave de  mi estado de salud."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Frustración, inconformismo.",
                         "retroalimentacion": {
                             "title": "No, esta vez no me siento así.",
-                            "body": "Al sentirme aliviada, me siento alegre porque ya sé que no tengo nada grave."
+                            "body": "Me siento totalmente conforme, y feliz que mi estado de salud este bien, porque no tengo nada grave."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "5": {
             "person": "Benjamin Cupitra",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Desde que paso más tiempo en la casa han aumentado las discusiones con mi mamá. Me siento incomprendido.",
                 "intro": "Benjamin tiene algo que contarnos. ¿Qué opinan?",
                 "options": {
@@ -295,137 +295,137 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "No nos está hablando de emociones. Nos está contando él que piensa que su mamá no lo comprende."
+                            "body": "No nos está hablando de una emoción en particular, sino una descripción de lo que él 'cree' que piensa su mamá a partir de la situación mencionada."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Sí! Estoy de acuerdo.",
-                            "body": "Está expresando un pensamiento y valoración sobre el nivel de comprensión de su mamá."
+                            "body": "Está expresando un pensamiento de la valoración que él 'cree' que tiene su mamá, con relación a la falta de comprensión."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "Esta vez te equivocas.",
-                            "body": "No nos está describiendo lo que piensa de sí mismo, sino que piensa que su mamá no lo comprende."
+                            "body": "No nos está describiendo lo que piensa de sí mismo, sino de lo que 'cree'  que su mamá  piensa de él con relación a la falta de comprensión. "
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Desde que paso más tiempo en la casa han aumentado las discusiones con mi mamá. Me siento incomprendido.",
                 "intro": "Benjamin tiene algo que contarnos. ¿Qué opinan?",
                 "options": {
                     "first": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación.",
                         "retroalimentacion": {
                             "title": "¡Por ahora no me siento así!",
-                            "body": "Estoy disgustado porque no nos hemos podido entender con mi mamá, aunque también me siento triste porque no quiero seguir peleando con ella."
+                            "body": "Estoy disgustado porque no nos hemos podido entender con mi mamá, aunque también me siento triste porque no quiero seguir discutiendo con ella."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones. "
                     },
                     "second": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
                             "title": "¡Por ahora no me siento así!",
                             "body": "Estoy disgustado porque no nos hemos podido entender con mi mamá, aunque también me siento triste porque no quiero seguir peleando con ella."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Disgusto:",
-                        "body": "Descontento, desagrado.",
+                        "body": "Molestia, inconformismo",
                         "retroalimentacion": {
                             "title": "¡Es verdad!",
                             "body": "Ahora me siento disgustado porque no nos hemos podido entender con mi mamá, aunque también me siento triste porque no quiero seguir peleando con ella."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "6": {
             "person": "David Casallas",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de pelear con mi novia y me siento ignorado.",
-                "intro": "Aquí está la historia de David. ¿Qué crees que está expresando?",
+                "intro": "Aquí está la historia de David. ¿Qué creen que está expresando?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
-                            "title": "Humm... creo que no.",
-                            "body": "David nos está contando que él piensa que su novia lo ignora. Es más una opinión sobre otra persona."
+                            "title": "No creo.",
+                            "body": "David piensa que su novia lo ignora. Es más, una opinión sobre otra persona."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
-                            "title": "¡Ojalá todos supieramos la diferencia como ustedes!",
-                            "body": "Efectivamente está expresando un pensamiento e interpretación sobre el nivel de atención de su novia."
+                            "title": "¡Correcto!",
+                            "body": "Efectivamente está expresando un pensamiento con base a la interpretación sobre el nivel de atención de su novia."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "Yo diría que no.",
-                            "body": "David no está hablando de sí mismo, sino que opina que su novia lo está ignorando. Es un pensamiento."
+                            "body": "David no está hablando de sí mismo, sino que opina que su novia lo está ignorando."
                         }
                     },
-                    "correct": "second",
-                    "pounts": 50
+                    "correct": "Todas",
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de pelear con mi novia y me siento ignorado.",
                 "intro": "Aquí está la historia de David. ¿Qué crees que está expresando?",
                 "options": {
                     "first": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados!",
-                            "body": "Me siento frustrado y con un poquito de miedo porque no me presta atención y no quiero perderla. También me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mi."
+                            "body": "Me siento frustrado y con miedo porque no me presta atención y no quiero perderla. También me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mí."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro..",
+                        "body": "Optimismo, sorpresa",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados",
-                            "body": "Me siento frustrado y con un poquito de miedo porque no me presta atención y no quiero perderla. Tambien me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mi."
+                            "body": "Me siento frustrado y con miedo porque no me presta atención y no quiero perderla. También me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mí."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Frustración, Inconformismo.",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados",
-                            "body": "Me siento frustrado y con un poquito de miedo porque no me presta atención y no quiero perderla. También me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mi."
+                            "body": "Me siento frustrado y con miedo porque no me presta atención y no quiero perderla. También me da mucha tristeza porque la extraño, aunque me da un poquito de alegría y alivio en el fondo porque quería algo de tiempo para mí."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
-                    "correct": "",
-                    "pounts": 50
+                    "correct": "Todas",
+                    "pounts": 5
                 }
             }
         },
         "7": {
             "person": "Jhon Jairo",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Vamos a comprar una moto nueva para la familia. Me siento eufórico.",
                 "intro": "¿Qué opinan que Jhon Jairo quiera expresar con su historia?",
                 "options": {
@@ -433,29 +433,29 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Yo habría dicho lo mismo!",
-                            "body": "La euforia es lo que sientes cuando alcanzas un sueño o cuando quieres que algo pase y pasa."
+                            "body": "La euforia es el resultado de una emoción de sorpresa y alegría, y una de esas causas podría ser  cuando alcanzas una meta o un objetivo y haces todo lo que este a tu alcance para lograrlo."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
-                            "title": "¡Recuerden la diferencia entre pensamiento y sentimiento!",
-                            "body": "La euforia es lo que sientes cuando alcanzas un sueño o cuando quieren que algo pase y pasa."
+                            "title": "¡Es incorrecto!",
+                            "body": "No es un pensamiento u opinión lo que está expresando, sino una emoción específica a partir de una situación."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
-                            "title": "¡Recuerden la diferencia entre pensamiento y sentimiento!",
-                            "body": "La euforia es lo que sienten cuando alcanzan un sueño o cuando quieren que algo pase y pasa."
+                            "title": "¡No está describiendo!",
+                            "body": "está expresando claramente su emoción a partir de algo que logro, y no a partir de creencias."
                         }
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Vamos a comprar una moto nueva para la familia. Me siento eufórico.",
                 "intro": "¿Qué opinan que Jhon Jairo quiera expresar con su historia?",
                 "options": {
@@ -464,313 +464,313 @@
                         "body": "Optimismo, asombro.",
                         "retroalimentacion": {
                             "title": "¿Cómo lo supieron?                            ",
-                            "body": "Me siento muy alegre por el logro de mi familia, aunque seguro mi primo se debe estar mordiendo de la rabia porque él la quería comprar primero. ¡Luego se le pasará!"
+                            "body": "Me siento muy alegre y optimista por el logro de mi familia. Es increíble como se siente de feliz lograr algo."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "second": {
                         "title": "Disgusto:",
                         "body": "Asco, repugnancia.",
                         "retroalimentacion": {
                             "title": "No me siento así.",
-                            "body": "Estoy muy alegre por el logro de mi familia, aunque seguro mi primo se debe estar mordiendo de la rabia porque él la quería comprar primero. Luego se le pasará"
+                            "body": "Estoy muy alegre por el logro de mi familia. Así que no tendría por qué sentir algún tipo de disgusto."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación.",
                         "retroalimentacion": {
-                            "title": "¡No estoy para nada triste!",
-                            "body": "Estoy muy alegre por el logro de mi familia, aunque seguro mi primo se debe estar mordiendo de la rabia porque él la quería comprar primero. Luego se le pasará"
+                            "title": "¡No me siento triste!",
+                            "body": "Estoy muy alegre por el logro de mi familia. Jamás nos debemos resignar cuando tenemos un sueño."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "8": {
             "person": "Cindy Cuevas",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Luego de mucho esfuerzo y dedicación por fin me voy a graduar del colegio. Me siento orgullosa.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Luego de mucho esfuerzo y dedicación, por fin me voy a graduar del colegio. ¡Me siento orgullosa!",
                 "intro": "¡Miren! Cindy nos escribe. ¿Cómo lo ven?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Tienen toda la razón!",
-                            "body": "El orgullo es lo que sientes cuando logras algo después de mucho esfuerzo. ¡Ustedes lo han sentido!"
+                            "body": "El orgullo es un sentimiento producto de una emoción como la alegría, y la causa en este caso es el logro cumplido, después de mucho esfuerzo."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Cindy no nos está dando una opinión sobre lo que otra persona puede sentir o pensar. Está hablando de las emociones que genera alcanzar su sueño de graduarse."
+                            "body": "Cindy no está dando una opinión sobre lo que otra persona piensa o siente. Está hablando acerca de la emoción que genera alcanzar la meta de graduarse."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Cindy no se está describiendo, sino que nos está contando cómo se siente al poderse graduar."
+                            "body": "Cindy no se está describiendo, sino que nos está contando el sentimiento de orgullo que le genera apartir de su emoción  de la alegria, al lograr graduarse."
                         }
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Luego de mucho esfuerzo y dedicación por fin me voy a graduar del colegio. Me siento orgullosa.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Luego de mucho esfuerzo y dedicación, por fin me voy a graduar del colegio. ¡Me siento orgullosa!",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
-                            "title": "Así tal cual me siento :)",
-                            "body": "Me siento muy alegre por el logro que he conseguido, aunque hace poco me sentí nerviosa cuando empecé a pensar en mi futuro."
+                            "title": "¡Si, así me siento!",
+                            "body": "Me siento muy feliz por el logro que he conseguido, aunque hace poco me sentí un poco ansiosa cuando estaba pensando en mi proyecto de vida."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "second": {
                         "title": "Disgusto:",
                         "body": "Asco, repugnancia.",
                         "retroalimentacion": {
                             "title": "No, para nada.",
-                            "body": "Me siento muy alegre por el logro que he conseguido, aunque hace poco me sentí nerviosa cuando empecé a pensar en mi futuro."
+                            "body": "Me siento muy feliz   por el logro que he conseguido. No tendría porque disgustarme, porque todo lo conseguí con esfuerzo."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación",
                         "retroalimentacion": {
                             "title": "No me siento así.",
-                            "body": "Me siento muy alegre por el logro que he conseguido, aunque hace poco me sentí nervioso cuando empece a pensar en mi futuro."
+                            "body": "Me siento feliz por el logro que cumplí, quizás me hubiese sentido mal si no lo hubiese logrado, pero logré graduarme."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "9": {
             "person": "Diana Hinestrosa",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Ahora que paso mas tiempo en casa debo ayudar con el oficio, pero siento que no soy buena en ello porque siempre me están regañando.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Ahora que paso mas tiempo en casa debo ayudar con el aseo, pero siento que no soy buena en ello porque siempre me están regañando.",
                 "intro": "Diana nos cuenta su historia. ¿Qué opinan al respecto?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "Lo dudo",
-                            "body": "Diana no nos está hablando de una emoción, expresa que cree que no es buena. Nos está describiendo su realidad."
+                            "body": "Diana no nos esta hablando de una emoción, nos está describiendo un concepto que tiene de ella misma y de lo que 'Cree' que piensan los demás."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Creo que no! ",
-                            "body": "Diana no está dando una opinión de lo que otra persona puede sentir o pensar, , expresa que cree que no es buena. Nos está describiendo su realidad."
+                            "body": "Diana no está dando una opinión frente a lo que piensa o siente otra persona, expresa que cree que no es buena en la actividad de hacer aseo."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "Sí!!! Muy bien.",
-                            "body": "Diana nos está expresando que siente que no es buena. Nos está contando de su realidad."
+                            "body": "Diana nos está describiendo un concepto que tiene de ella misma y de lo que 'Cree' que piensan los demás."
                         }
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Ahora que paso mas tiempo en casa debo ayudar con el oficio, pero siento que no soy buena en ello porque siempre me están regañando.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Ahora que paso mas tiempo en casa debo ayudar con el aseo, pero siento que no soy buena en ello porque siempre me están regañando.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Disgusto:",
-                        "body": "Repugnancia, asco.",
+                        "body": "Asco, repugnancia.",
                         "retroalimentacion": {
                             "title": "¡Por ahora no me siento así!",
-                            "body": "Estoy enojada y frustrada porque me regañan en lugar de explicarme cómo hacer las cosas mejor. A veces también siento tristeza porque me gustaría recibir más apoyo."
+                            "body": "No es que  sienta repugnancia, solo me molesta que me regañen de manera frecuente, no se toman el trabajo de explicarme cómo hacer las cosas mejor."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Enojo:",
-                        "body": "Frustración, fastidio.",
+                        "body": "Inconformismo, frustración",
                         "retroalimentacion": {
                             "title": "¡Ustedes si me entienden!",
-                            "body": "Estoy enojada y frustrada porque me regañan en lugar de explicarme como hacer las cosas mejor. A veces también siento tristeza porque me gustaría recibir más apoyo."
+                            "body": "Estoy enojada y frustrada porque me regañan en lugar de explicarme como hacer las cosas mejor. Por eso me siento inconforme con esa situación."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
-                            "title": "¿Saben que no me siento así?",
-                            "body": "Estoy enojada y frustrada porque me regañan en lugar de explicarme como hacer las cosas mejor. A veces también siento tristeza porque me gustaría recibir más apoyo."
+                            "title": "No me siento asi",
+                            "body": "De hecho me siento poco optimista cuando me regañan a toda hora, y Eso no me hace sentir muy alegre."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "10": {
             "person": "Fabian Sánchez",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Empecé un nuevo curso y ahora tengo muchas tareas pendientes. Siento que no las podré terminar a tiempo.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "empecé un nuevo curso y ahora tengo muchas tareas pendientes. Siento que no las podré terminar a tiempo.",
                 "intro": "Fabian nos escribe. ¿Qué creen que está expresando?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Lo dudo!",
-                            "body": "Fabian no está hablando de una emoción sino que cree que no es bueno. Es más como una descripción de su realidad."
+                            "body": "Fabian, no describe una emoción sino una 'creencia' a partir de su experiencia cuando no ha logrado terminar las cosas a tiempo."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Yo habría dicho lo mismo!",
-                            "body": "Fabian está describiendo un pensamiento sobre el tiempo que necesita."
+                            "body": "Fabian está describiendo a partir de lo que piensa,  lo que posiblemente no pueda llegar hacer, debido a que no le alcanza el tiempo."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Fabian en vez de contar lo que cree ser, está dando su opinión sobre el tiempo que tiene."
+                            "body": "Fabian está señalando que no le alcanzará el tiempo para la actividad que debe hacer, más no una descripción de sí mismo."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Empecé un nuevo curso y ahora tengo muchas tareas pendientes. Siento que no las podré terminar a tiempo.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados!",
-                            "body": "Me siento nervioso y ansioso por no saber si alcanzaré a terminar. También siento enojo porque no me gusta esa presión del tiempo aunque también me siento entusiasmado por estar aprendiendo cosas nuevas."
+                            "body": "Me siento ansioso por no saber si alcanzaré a terminar. También enojo porque no me gusta trabajar bajo presión. Pero en definitiva me siento poco optimista con la situación."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, ansiedad.",
+                        "body": "Ansiedad.",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados!",
-                            "body": "Me siento nervioso y ansioso por no saber si alcanzaré a terminar. También siento enojo porque no me gusta esa presión del tiempo aunque tambien me siento entusiasmado por estar aprendiendo cosas nuevas."
+                            "body": "Me siento ansioso por no saber si alcanzaré a finalizar mis actividades y me da miedo perder alguna materia por no terminar mis trabajos a tiempo."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Frustración, inconformismo.",
                         "retroalimentacion": {
                             "title": "¡Tengo sentimientos encontrados!",
-                            "body": "Me siento nervioso y ansioso por no saber si alcanzaré a terminar. También siento enojo porque no me gusta esa presión del tiempo aunque también me siento entusiasmado por estar aprendiendo cosas nuevas."
+                            "body": "Me siento ansioso por no saber si alcanzaré a terminar. También siento enojo porque no me gusta trabajar bajo presión, y sobre todo me siento inconforme con todas las tareas que ponen."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "todas",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "11": {
             "person": "Xiomara Becerra",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Anoche hubo un breve deslizamiento de tierra en la finca. Sentí que no iba a salir ilesa.",
                 "intro": "¿Qué opinan de la historia de Xiomara?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
-                            "title": "Hmmm... ¿Seguro?",
-                            "body": "Yo creo que Xiomara está opinando sobre lo que le sucedió anoche."
+                            "title": "¡No lo creo!",
+                            "body": "Yo creo que Xiomara está describiendo lo que sucedió en la finca, y de lo que creyó que iba a pasar."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Pienso lo mismo!",
-                            "body": "Xiomara está opinando sobre lo que le pudo pasar anoche."
+                            "body": "Ella nos está dando su opinión y describiendo la situación y contexto de lo sucedido. Y de o que ella creyó que iba a pasar."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡No creo!",
-                            "body": "Veo que Xiomara está opinando sobre lo que le sucedió anoche."
+                            "body": "Ella no está dando una descripción de ella misma ni de lo que cree ser, sino de lo que creyó que iba a suceder cuando hubo el deslizamiento de tierra en su finca."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Anoche hubo un breve deslizamiento de tierra en la finca. Sentí que no iba a salir ilesa.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Miedo:",
-                        "body": "Nerviosismo, desesperación.",
+                        "body": "Ansiedad, desesperación.",
                         "retroalimentacion": {
                             "title": "¡Son muy perceptivos/as!",
-                            "body": "Sentí mucho miedo cuando escuché el rugido de la montaña. Menos mal no fue nada grave. En cambio mis hermanos sintieron asombro y diversión. ¿Ustedes que hubieran sentido?"
+                            "body": "Sentí mucho miedo cuando escuché el rugido de la montaña. Menos mal no fue nada grave."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "second": {
                         "title": "Disgusto:",
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
                             "title": "¡Anoche no me sentí así!",
-                            "body": "Sentí mucho miedo cuando escuché el rugido de la montaña. Menos mal no fue nada grave. En cambio mis hermanos sintieron asombro y diversión. ¿Ustedes que hubieran sentido?"
+                            "body": "No fue disgusto,  sentí otro tipo de emociones."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Desánimo, resignación.",
                         "retroalimentacion": {
                             "title": "¡Anoche no me sentí así!",
-                            "body": "Sentí mucho miedo cuando escuché el rugido de la montaña. Menos mal no fue nada grave. En cambio mis hermanos sintieron asombro y diversión. ¿Ustedes que hubieran sentido?"
+                            "body": "Sentí adrenalina por el miedo que me dio. Peor no me sentí triste porque no paso nada grave."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "first",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "12": {
             "person": "Rubén Montoya",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de conseguir un nuevo oficio con el que gano algo de dinero, pero siento que soy insignificante para mis compañeros.",
                 "intro": "Rubén nos escribe. ¿Qué creen que está expresando? ",
                 "options": {
@@ -778,75 +778,75 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Lo dudo!",
-                            "body": "Rubén nos está contando que cree ser insignificante para sus compañeros."
+                            "body": "Rubén nos está contando que cree ser insignificante para sus compañeros. No una emoción particular."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Rubén nos está contando que cree ser insignificante. Es una descripción de lo que cree ser."
+                            "body": "Rubén nos está contando que cree ser insignificante. Es una descripción de lo que cree ser. No un pensamiento u opinión de otros."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Ya estamos entendiendo!",
-                            "body": "Rubén cree que es insignificante para sus compañeros, por eso no es una opinión ni un sentimiento."
+                            "body": "Rubén cree que es insignificante para sus compañeros, y describiendo la razón por la cual lo siente"
                         }
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Acabo de conseguir un nuevo oficio con el que gano algo de dinero, pero siento que soy insignificante para mis compañeros.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
                             "title": "¡¡Por ahora no me siento así!",
-                            "body": "Tal vez antes no me importaba, pero ahora me siento triste y consternado porque no tengo con quien hablar en el trabajo. También me siento enojado conmigo mismo por ser tan penoso."
+                            "body": "Me siento alegre por tener un buen trabajo, pero en realidad no me gusta sentirme insignificante."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Disgusto:",
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
                             "title": "¡Por ahora no me siento así!",
-                            "body": "Tal vez antes no me importaba, pero ahora me siento triste y consternado porque no tengo con quien hablar en el trabajo. También me siento enojado conmigo mismo por ser tan penoso."
+                            "body": "No es un sentimiento de repugnancia. Solamente no me gusta sentir que la gente no me hable o me ignore en el trabajo."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "three": {
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación.",
                         "retroalimentacion": {
                             "title": "¡Tienen razón!",
-                            "body": "Tal vez antes no me importaba, pero ahora me siento triste y consternado porque no tengo con quien hablar en el trabajo. También me siento enojado conmigo mismo por ser tan penoso."
+                            "body": "Tal vez antes no me importaba, pero ahora me siento triste y desanimado porque no tengo con quien hablar en el trabajo. También me siento enojado conmigo mismo por ser tan penoso. Pero no quiero resignarme a estar siempre así, yo se que voy a poder establecer mejor comunicación con mis compañeros de trabajo."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "13": {
             "person": "Orlando Trejo",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Anoche tuvimos una fuerte discusión con mi novia. Siento que ya no me quiere.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Anoche tuvimos una fuerte discusión con mi novia. Pienso que ya no me quiere.",
                 "intro": "Miren lo que nos cuenta Orlando. ¿Cómo lo ven?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
-                            "title": "¡Hmmm... no lo creo!",
+                            "title": "¡No lo creo!",
                             "body": "Orlando no está hablando de un sentimiento. Él piensa que su novia ya no lo quiere."
                         }
                     },
@@ -854,61 +854,61 @@
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Yo habría dicho lo mismo!",
-                            "body": "Orlando piensa que su novia ya no lo quiere."
+                            "body": "Orlando piensa que su novia ya no lo quiere, debido a la disdiscusión que tuvieron."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Orlando piensa que su novia ya no lo quiere."
+                            "body": "Orlando no está diciendo lo que él cree ser, sino lo que posiblemente piensa su novia de lo sucedido."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Anoche tuvimos una fuerte discusión con mi novia. Siento que ya no me quiere.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Anoche tuvimos una fuerte discusión con mi novia. Pienso que ya no me quiere.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
                     "first": {
                         "title": "Disgusto:",
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
-                            "title": "¿En serio creen que siento eso?",
-                            "body": "¡Para nada! Me siento triste y desanimado porque realmente la quiero, y ella ahora no me quiere ni ver. También siento miedo de que me deje y no quiera volver a estar conmigo."
+                            "title": "¡Para nada!",
+                            "body": "No me disgusta la situación, tampoco me enoja, solo me desanimo porque no me gusta discutir con mi novia."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación.",
                         "retroalimentacion": {
                             "title": "¡Son muy perceptivos/as!",
-                            "body": "Me siento triste y desanimado porque realmente la quiero, y ella ahora no me quiere ni ver. También siento miedo de que me deje y no quiera volver a estar conmigo."
+                            "body": "Me siento triste y desanimado porque no me gusta discutir con ella. Tampoco me gusta sentir que ya no me quiere. Peor no me voy a resignar a perderla. Voy hablar con ella."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Alegría:",
-                        "body": "Optimismo, asombro.",
+                        "body": "Optimismo, sorpresa.",
                         "retroalimentacion": {
-                            "title": "¿En serio creen que siento eso?",
-                            "body": "¡Para nada! Me siento triste y desanimado porque realmente la quiero, y ella ahora no me quiere ni ver. También siento miedo de que me deje y no quiera volver a estar conmigo."
+                            "title": "¡Para nada!",
+                            "body": "Me siento triste y desanimado porque realmente la quiero, y ella ahora no me quiere ni ver. También siento miedo de que me deje y no quiera volver a estar conmigo."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "14": {
             "person": "Kevin Ramírez",
             "a": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Hoy viene mi hermano de visita con el perro que me mordió de pequeño. Siento que no es una buena idea estar cerca de 'Muelas'.",
                 "intro": "Kevin nos cuenta su historia. ¿Qué opinan al respecto?",
                 "options": {
@@ -916,29 +916,29 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Lo dudo!",
-                            "body": "Kevin piensa que puede pasar algo malo si se acerca a 'Muelas'. Aún no nos ha dicho lo que siente."
+                            "body": "Kevin piensa que puede pasar algo malo si se acerca  'Muelas'. Aún no nos ha dicho lo que siente. "
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Bien!",
-                            "body": "Kevin nos está contando su opinión sobre lo que puede llegar a pasar si se acerca a 'Muelas.'."
+                            "body": "Kevin nos está contando su opinión sobre lo que puede llegar a pasar si se acerca a 'Muelas'. También piensa que no es buena idea estar cerca al perro."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Yo diría que no!",
-                            "body": "Kevin nos está contando lo que piensa si se acerca a 'Muelas'. "
+                            "body": "Kevin no esta describiendo un concepto de él mismo, sino que  nos está contando lo que piensa si se acerca a 'Muelas'. "
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Hoy viene mi hermano de visita con el perro que me mordió de pequeño. Siento que no es una buena idea estar cerca de 'Muelas'.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
@@ -949,65 +949,65 @@
                             "title": "¡No creo que sea tristeza lo que siento!",
                             "body": "Al contrario me siento muy feliz de ver a mi hermano, aunque me da un poco miedo 'Muelas' porque no sé cómo se va a comportar."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Miedo:",
                         "body": "Inquietud, desesperación.",
                         "retroalimentacion": {
                             "title": "¡Tienes razón!",
-                            "body": "Me siento un poco nervioso e inquieto porque no sé cómo se va a comportar 'Muelas'. Espero que le haga caso a mi hermano. Igual me da mucha felicidad ver a mi hermano."
+                            "body": "Me siento inquieto porque no sé cómo se va a comportar 'Muelas' connmigo. Así que me da miedo tenerlo muy cerca."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos."
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Disgusto:",
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
-                            "title": "¡No creo que sea disgusto lo que siento!",
-                            "body": "Al contrario me siento muy feliz de ver a mi hermano, aunque me da un poco miedo 'Muelas' porque no sé cómo se va a comportar."
+                            "title": "¡No creo!",
+                            "body": "Al contrario me siento muy feliz de ver a mi hermano, aunque me da un poco miedo 'Muelas'."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
         "15": {
             "person": "Catalina Peña",
             "a": {
-                "header": "Hola Luisa y Yeiner",
-                "body": "Un tío llegó a vivir con nosotros hace unos días y pone música a todo volumen en las noches. Siento que por la noche no habría que poner la música tan alta.",
+                "header": "Hola Luisa y Andrés,",
+                "body": "Un tío llegó a vivir con nosotros hace unos días y pone música a todo volumen en las noches. Siento que no es adecuado colocar en alto volumen la musica, es un tiempo para descansar y dejar descansar a los demás.",
                 "intro": "Catalina nos escribe. ¿Cómo lo ven?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
-                            "title": "¿Estás seguro?",
-                            "body": "Catalina  está contando lo que piensa sobre el comportamiento de su tío."
+                            "title": "¿Están seguros?",
+                            "body": "Catalina  está contando lo que piensa sobre el comportamiento de su tío, y sobre lo que piensa de colocar música  en alto volumen en horas de la noche."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
-                            "title": "¡¡Ojalá todos supiéramos la diferencia como ustedes!",
-                            "body": "Catalina está opinando sobre el comportamiento de su tío en las noches."
+                            "title": "¡Correcto!",
+                            "body": "Catalina está opinando sobre el comportamiento de su tío en las noches, y así mismo opina frente a que es poco adecuado colocar música en alto volumen en horas de la noche, y justifica por qué piensa eso."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¿Están seguros?                            ",
-                            "body": "Catalina  está contando lo que piensa sobre el comportamiento de su tío."
+                            "body": "Catalina  está contando lo que piensa sobre el comportamiento de su tío, no una descripción de ella misma."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
-                "header": "Hola Luisa y Yeiner",
+                "header": "Hola Luisa y Andrés,",
                 "body": "Un tío llegó a vivir con nosotros hace unos días y pone música a todo volumen en las noches. Siento que por la noche no habría que poner la música tan alta.",
                 "intro": "¿Qué crees que debe estar sintiendo ante esta situación?",
                 "options": {
@@ -1015,31 +1015,31 @@
                         "title": "Tristeza:",
                         "body": "Desánimo, resignación.",
                         "retroalimentacion": {
-                            "title": "¿En serio creen que siento eso?",
-                            "body": "¡Para nada! Siento mucho enojo porque llevamos varios días sin dormir bien por culpa de él y su desconsideración."
+                            "title": "Para nada",
+                            "body": "No me desanima, ni mucho menos tristeza, pero si enojo, porque llevamos varios días sin dormir bien por culpa de él y su falta de empatía con los demás."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "second": {
                         "title": "Enojo:",
-                        "body": "Frustración, amargura.",
+                        "body": "Inconformismo, frustración",
                         "retroalimentacion": {
                             "title": "¡Claro que me enoja!",
-                            "body": "Es mi tío y todo, pero me exaspera su desconsideración. Llevamos varios días sin dormir bien y mi mamá no le dice nada por verlo feliz."
+                            "body": "Es mi tío, pero me exaspera su desconsideración. Llevamos varios días sin dormir bien y mi mamá no le dice nada por verlo feliz. Y me siento totalmente inconforme con esa situación."
                         },
-                        "feedback": "¡Que bien! Nos han recomendado y tenemos 50 seguidores nuevos. "
+                        "feedback": "¡Que bien! Nos han recomendado y hemos sumado 5 amigos nuevos."
                     },
                     "three": {
                         "title": "Disgusto:",
                         "body": "Repugnancia, asco.",
                         "retroalimentacion": {
                             "title": "¿En serio creen que siento eso?",
-                            "body": "¡Para nada! Siento mucho enojo porque llevamos varios días sin dormir bien por culpa de él y su desconsideración."
+                            "body": "¡Para nada! Realmente más que disgusto es enojo con mi tío y su música alta. Me molesta mucho esa situación."
                         },
-                        "feedback": "Vamos aprendiendo. Esta vez no ganamos seguidores pero entendemos cada vez mejor el mundo de las emociones y sentimientos."
+                        "feedback": "Vamos aprendiendo. Esta vez no logramos ayudar a ningún amigo nuevo, pero estamos mejorando en nuestro proceso de entender las emociones y sentimientos ante determinadas situaciones."
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         }
@@ -1047,7 +1047,7 @@
     "feedback": {
         "success": {
             "title": "¡Que bien!",
-            "body": " ¡Lo logramos! Hemos conseguido los mil seguidores que esperábamos. No podemos parar ahora. ¿Cuál será nuestro próximo reto?"
+            "body": " ¡Lo logramos! Hemos conseguido los mil amigos que esperábamos. No podemos parar ahora. ¿Cuál será nuestro próximo reto?"
         },
         "warning": {
             "title": "Oh!",
@@ -1057,25 +1057,25 @@
     "tutorial": {
         "1": {
             "a": {
-                "intro": "¡Hola, somos Luisa y Yeiner!",
+                "intro": "¡Hola, somos Luisa y Andrés!",
                 "background-color": "background-dialog-crem",
                 "styled-title": "text-title-dialog-blue",
                 "button": "SIGUIENTE"
             },
             "b": {
                 "intro-luisa": {
-                    "body": "Le hemos preguntado a nuestros seguidores como se han sentido, pero nos hemos dado cuenta que no todos expresan de manera clara sus sentimientos."
+                    "body": "Hemos preguntado a nuestros amigos cómo se han sentido, sin embargo, a muchos de ellos se les dificulta expresar de manera clara y adecuada sus emociones."
                 }
             }
         },
         "2": {
             "a": {
-                "intro": "Pero Luisa, ¿Cómo sabemos si están reconociendo adecuadamente sus sentimientos?",
+                "intro": "Pero Luisa, ¿Cómo sabemos si están identificando, expresando y reconociendo adecuadamente sus emociones?.",
                 "button": "SIGUIENTE"
             },
             "b": {
                 "intro-luisa": {
-                    "body": "A las personas nos cuesta distinguir entre lo que sentimos, pensamos o creemos que somos. Esto dificulta la comunicación y genera más conflictos.",
+                    "body": "A los seres humanos se nos dificulta comportarnos en función de lo que pensamos o sentimos, así mismo no es fácil expresar de manera verbal o no verbal lo que sentimos; esto trae como consecuencia la falta de comunicación, o lo que se conoce como 'comunicación poco asertiva', y termina generando situaciones de conflicto o violencia.",
                     "footer": "Miremos por ejemplo lo que nos escribió Paola:"
                 },
                 "styled-footer-text": "text-fotter-dialog-blue"
@@ -1092,25 +1092,25 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras pueden generar confusiones, como cuando utilizamos el verbo sentir, pero en realidad no estamos expresando ninguna emoción y sentimientos. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras pueden generar confusiones, como cuando utilizamos el verbo sentir, pero en realidad no estamos expresando ninguna emoción y sentimientos. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras pueden generar confusiones, como cuando utilizamos el verbo sentir, pero en realidad no estamos expresando ninguna emoción y sentimientos. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
                         }
                     },
                     "correct": "second",
-                    "pounts": 50
+                    "pounts": 5
                 }
             },
             "b": {
@@ -1146,7 +1146,7 @@
                         "feedback": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir."
                     },
                     "correct": "three",
-                    "pounts": 50
+                    "pounts": 5
                 }
             }
         },
@@ -1163,7 +1163,7 @@
         },
         "5": {
             "a": {
-                "intro": "Veamos qué expresan otros seguidores y cómo se sienten ante la situación que están afrontando.",
+                "intro": "Veamos qué expresan otros amigos y cómo se sienten ante la situación que están afrontando.",
                 "button": "SIGUIENTE"
             },
             "b": {
