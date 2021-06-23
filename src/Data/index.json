@@ -1,6 +1,6 @@
 {
     "info": {
-        "title": "Sentimientos Encontrados",
+        "title":"Sentimientos Encontrados",
         "sub-title": "Instrucciones",
         "body-1": "Andrés y Luisa quieren inspirar y motivar a más personas para que cultiven su futuro, por eso se propusieron conseguir mínimo 100 amigos, su objetivo es que al interactuar con ellos conversen de cómo identifican, expresan, regulan y reconocen sus emociones.",
         "placeholder": "PLACEHOLDER IMG EXPLICATIVA",
@@ -150,7 +150,7 @@
             "person": "Laura López",
             "a": {
                 "header": "¡Hola!",
-                "body": "empecé mis clases virtuales con un nuevo grupo, pero luego de varias sesiones siento que soy insignificante para mis compañeros.",
+                "body": "Empecé mis clases virtuales con un nuevo grupo, pero luego de varias sesiones siento que soy insignificante para mis compañeros.",
                 "intro": "Miren. Laura nos cuenta su historia. ¿Cómo lo ven?",
                 "options": {
                     "first": {
@@ -630,31 +630,31 @@
             }
         },
         "10": {
-            "person": "Fabian Sánchez",
+            "person": "Fabián Sánchez",
             "a": {
                 "header": "Hola Luisa y Andrés,",
                 "body": "empecé un nuevo curso y ahora tengo muchas tareas pendientes. Siento que no las podré terminar a tiempo.",
-                "intro": "Fabian nos escribe. ¿Qué creen que está expresando?",
+                "intro": "Fabián nos escribe. ¿Qué creen que está expresando?",
                 "options": {
                     "first": {
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "¡Lo dudo!",
-                            "body": "Fabian, no describe una emoción sino una 'creencia' a partir de su experiencia cuando no ha logrado terminar las cosas a tiempo."
+                            "body": "Fabián, no describe una emoción sino una 'creencia' a partir de su experiencia cuando no ha logrado terminar las cosas a tiempo."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "¡Yo habría dicho lo mismo!",
-                            "body": "Fabian está describiendo a partir de lo que piensa,  lo que posiblemente no pueda llegar hacer, debido a que no le alcanza el tiempo."
+                            "body": "Fabián está describiendo a partir de lo que piensa,  lo que posiblemente no pueda llegar hacer, debido a que no le alcanza el tiempo."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "¡Creo que no!",
-                            "body": "Fabian está señalando que no le alcanzará el tiempo para la actividad que debe hacer, más no una descripción de sí mismo."
+                            "body": "Fabián está señalando que no le alcanzará el tiempo para la actividad que debe hacer, más no una descripción de sí mismo."
                         }
                     },
                     "correct": "second",
@@ -1057,7 +1057,8 @@
     "tutorial": {
         "1": {
             "a": {
-                "intro": "¡Hola, somos Luisa y Andrés!",
+                "intro": ["¡Hola! ",
+                        "Somos Luisa y Andrés."],
                 "background-color": "background-dialog-crem",
                 "styled-title": "text-title-dialog-blue",
                 "button": "SIGUIENTE"
@@ -1092,21 +1093,21 @@
                         "title": "Un sentimiento",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular y no todos sentimos o actuamos de la misma manera. Es importante expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sintiéndolo como “un castigo”, pero los abuelos lo hacen porque quieren prevenir un contagio. Ellos lo ven de manera “positiva”."
                         }
                     },
                     "second": {
                         "title": "Un pensamiento u opinión",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular y no todos sentimos o actuamos de la misma manera. Es importante expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sintiéndolo como “un castigo”, pero los abuelos lo hacen porque quieren prevenir un contagio. Ellos lo ven de manera “positiva”."
                         }
                     },
                     "three": {
                         "title": "Una descripción de lo que cree ser",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular, es decir, ante la expresión de una palabra o frase no todos sentimos o actuamos de la misma manera. Por eso la importancia de expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sin embargo, lo está sintiendo desde su punto de vista, porque ella lo toma como “un castigo”, sin embargo, los abuelos lo hacen porque quieren prevenir un contagio, es decir ellos lo ven de manera “positiva”."
+                            "body": "Las palabras son el resultado de una serie de emociones, que terminan en un sentir particular y no todos sentimos o actuamos de la misma manera. Es importante expresar de manera adecuada la inconformidad que sentimos ante cualquier situación, y pedir que nos expliquen por qué nos están diciendo o señalando esa frase o palabra, para no interpretar de manera negativa lo que nos están diciendo. Por ejemplo, Paola cree que sus abuelos no quieren que se vea con sus amigos, sintiéndolo como “un castigo”, pero los abuelos lo hacen porque quieren prevenir un contagio. Ellos lo ven de manera “positiva”."
                         }
                     },
                     "correct": "second",

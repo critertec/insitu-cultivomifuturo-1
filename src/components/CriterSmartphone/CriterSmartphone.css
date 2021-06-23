@@ -211,13 +211,13 @@
   border-radius: 10px;
   background-color: var(--verde-ppal);
   padding: 0px 5px;
-  bottom: -45px;
+  bottom: 0px;
 }
 .punts-error {
   border-radius: 10px;
   background-color: var(--rojo-secd);
   padding: 0px 5px;
-  bottom: -45px;
+  bottom: 0px;
 }
 .text-alert-title {
   font-size: 18px;

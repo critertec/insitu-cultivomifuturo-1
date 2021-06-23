@@ -1,5 +1,5 @@
 .text-title-dialog-blue {
-  line-height: 22px;
+  line-height: 30px;
   font-size: 25px;
   font-family: "Roboto-bold";
   color: var(--azul-secd);
@@ -7,7 +7,7 @@
 }
 .text-body-dialog-blue {
   line-height: 20px;
-  font-size: 20px;
+  font-size: 17px;
   font-family: "Roboto-regular";
   color: var(--azul-secd);
   margin-bottom: 12px;
